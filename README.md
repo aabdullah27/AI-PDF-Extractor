@@ -1,7 +1,4 @@
 # Smart PDF Extractor
-
-![Smart PDF Extractor Banner](https://img.shields.io/badge/AI-PDF%20Extractor-Gemini%202.5%20Flash-blue)
-
 ---
 
 ## 🚀 Overview
