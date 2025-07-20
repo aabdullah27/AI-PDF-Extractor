@@ -43,7 +43,7 @@ graph TD
    ```
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   uv sync
    ```
 3. **Set up your Google API key**
    - Create a `.env` file in the project root:
